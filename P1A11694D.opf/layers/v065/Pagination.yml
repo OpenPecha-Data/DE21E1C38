@@ -13,15 +13,15 @@ annotations:
     imgnum: 738
     reference: ''
     span:
-      start: 758
-      end: 1661
+      start: 757
+      end: 1657
     note_ref: 7c82e8cb8de743eab5d12094fd91e76a
   7c82e8cb8de743eab5d12094fd91e76a:
     imgnum: 739
     reference: ''
     span:
-      start: 1664
-      end: 2279
+      start: 1659
+      end: 2273
 local_ids:
   e0e867c421ed4682b9e734f70d6b77f8: 200000
   86c83aa7199e46a3b0e14bd5014bdfa8: 200001
