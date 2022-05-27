@@ -1,0 +1,22 @@
+id: DE21E1C38
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:58:26+00:00'
+last_modified: '2022-05-27T15:49:37.102011+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '5335':
+      image_group_id: I1PD95910
+      title: ཚ་ཚ་གདབ་པའི་ཆོ་ག།
+      total_pages: 1498
+      order: 65
+      base_file: 5335.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
